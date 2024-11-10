@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Vanessa Hu
-vhu@ucsd.edu
+Vanessa Hu and Eric Pham
